@@ -1,0 +1,31 @@
+{
+  "name": "Detailing Empire — Симулятор детейлинга",
+  "short_name": "Detailing Empire",
+  "description": "Симулятор детейлинг-центра: мойка, полировка, химчистка и тюнинг",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1019",
+  "theme_color": "#0b1019",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "./index.html",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "lang": "ru"
+}
